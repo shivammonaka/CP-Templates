@@ -3680,7 +3680,7 @@
 		  "}",
 		  ""
 		],
-		"description": "DP_Digits",
+		"description": "DP_Digits"
 	},
 	"Prime_Seive": {
 		"prefix": "Prime_Seive",
